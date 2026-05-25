@@ -85,3 +85,7 @@ class Turtle(turtle.Turtle):
             if (nval != 0 or dval != 0):
                 update()#jika tracer 0, tidak diupdate
         settracer(nval, dval)#kembalikan nilai awal tracer
+       #dibawah fungsi def elips, dalam class yg sama, bisa ditambahkan
+def circle(self, radius, degrees=360, step=None):
+        self.elips(radius, radius, degrees,steps=step)
+#Ahahaha 
