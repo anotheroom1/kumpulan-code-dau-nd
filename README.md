@@ -1,12 +1,12 @@
-# Kumpulan Code dau-nd
+# Kumpulan Code Chia
 
 Repositori ini berisi kumpulan skrip Python sederhana yang mencakup berbagai fungsi, mulai dari perhitungan matematika hingga grafika komputer menggunakan modul `turtle`.
 
 ## Daftar Isi
-- [Angka Prima](#angka-prima)
-- [Elips & Elips2](#elips--elips2)
-- [Tracer](#tracer)
-- [Wilted Rose](#wilted-rose)
+- [Angka Prima](#angka-prima.py)
+- [Elips & Elips2](#elips--elips2.py)
+- [Tracer](#tracer.pu)
+- [Wilted Rose](#wilted-rose.py)
 
 ---
 
