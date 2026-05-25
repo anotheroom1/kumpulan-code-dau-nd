@@ -3,10 +3,11 @@
 Repositori ini berisi kumpulan skrip Python sederhana yang mencakup berbagai fungsi, mulai dari perhitungan matematika hingga grafika komputer menggunakan modul `turtle`.
 
 ## Daftar Isi
-- [Angka Prima](#angka-prima.py)
-- [Elips & Elips2](#elips--elips2.py)
-- [Tracer](#tracer.pu)
-- [Wilted Rose](#wilted-rose.py)
+- [Angka Prima](https://github.com/anotheroom1/kumpulan-code-dau-nd/blob/main/angka-prima.py)
+- [Elips 1](https://github.com/anotheroom1/kumpulan-code-dau-nd/blob/main/elips.py)
+- [Elips 2](https://github.com/anotheroom1/kumpulan-code-dau-nd/blob/main/elips2.py)
+- [Tracer](https://github.com/anotheroom1/kumpulan-code-dau-nd/blob/main/tracer.py)
+- [Wilted Rose](https://github.com/anotheroom1/kumpulan-code-dau-nd/blob/main/wilted-rose.py)
 
 ---
 
